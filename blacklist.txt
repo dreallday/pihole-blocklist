@@ -1,5 +1,13 @@
 apple.com
 icloud.com
+me.com
+icloud-content.com
+apple-dns.net
+apple.com.edgekey.net
+aaplimg.com
+mzstatic.com
+apple.com.akadns.net
+cdn-apple.com
 e6858.dsce9.akamaiedge.net
 e673.e9.akamaiedge.net
 e4478.a.akamaiedge.net
@@ -30,13 +38,3 @@ a1051.b.akamai.net
 a5.dscda1.akamai.net
 e2974.dscg.akamaiedge.net
 e9117.dscg.akamaiedge.net
-*.apple.com
-*.icloud.com
-*.me.com
-*.icloud-content.com
-*.apple-dns.net
-*.apple.com.edgekey.net
-*.aaplimg.com
-*.mzstatic.com
-*apple.com.akadns.net
-*.cdn-apple.com
